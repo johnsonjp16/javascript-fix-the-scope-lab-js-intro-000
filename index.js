@@ -12,7 +12,7 @@ function yourAnimal() {
   return animal
 }
 
-var n = 527
+var n = 525
 function add2(n) {
   return n + two
 
